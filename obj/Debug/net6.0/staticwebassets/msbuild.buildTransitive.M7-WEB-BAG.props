@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\M7-WEB-BAG.props" />
+</Project>
